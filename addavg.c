@@ -7,7 +7,7 @@ void addavg(int numofnum)
     int times = 1;
     float prvsum = 0;
     float num = 0;
-	while(times <= numofnum)
+    for(times = 1; times <= numofnum; times++)
 	{
 	if(times == 1)
 	    {   
