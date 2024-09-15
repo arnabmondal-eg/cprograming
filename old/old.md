@@ -1,0 +1,1 @@
+These files were created during my lst attempt to learn c. It was not a sucess
